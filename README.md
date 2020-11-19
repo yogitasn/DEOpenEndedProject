@@ -1,10 +1,10 @@
 ## Table of contents
-* [Problem Statement Formation](#ProblemStatementFormation)
+* [Problem Statement Formation](#Problem Statement Formation)
 * [Context](#context)
-* [Data Source](#Datsource)
-* [Sneak Peak into the Data](#SneakPeakintotheData)
-* [Proposed Architecture](#ProposedArchitecture)
-* [Choice of Technology](#echoiceofTechnology)
+* [Data Source](#Dat Source)
+* [Sneak Peak into the Data](#Sneak Peak into the Data)
+* [Proposed Architecture](#Proposed Architecture)
+* [Choice of Technology](#Choice of Technology)
 
 ## Problem Statement Formation
 This is project proposal for the open ended Data Engineering project: EDGAR Log Dataset
